@@ -15,7 +15,7 @@ The UI is built using **React** and communicates with the backend via REST APIs.
 
 ---
 
-## 🧩 Technologies Used
+##  Technologies Used
 
 - **React.js** (Create React App)
 - **Axios** for API calls
@@ -24,7 +24,7 @@ The UI is built using **React** and communicates with the backend via REST APIs.
 
 ---
 
-## ⚙️ Environment Setup
+##  Environment Setup
 
 ### Prerequisites
 - Node.js ≥ 18.x  
