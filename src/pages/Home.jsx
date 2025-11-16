@@ -28,7 +28,7 @@ const Home = () => {
         }}
       >
         <Title level={2} style={{ color: "white", margin: 0 }}>
-          H One Leave Tracker
+           Leave Tracker
         </Title>
       </Header>
 
@@ -47,7 +47,7 @@ const Home = () => {
         }}
       >
         <Paragraph style={{ fontSize: "1.2rem", color: "#fff", maxWidth: 600 }}>
-           Leave management and holiday validation for employees of H One
+           Leave management and holiday validation for employees
         </Paragraph>
 
         <Space size="large" style={{ marginTop: "20px" }}>
@@ -74,7 +74,7 @@ const Home = () => {
       </Content>
 
       <Footer style={{ textAlign: "center", background: "rgba(0,0,0,0.5)", color: "white" }}>
-        © {new Date().getFullYear()} H One Leave Management Prototype
+        © {new Date().getFullYear()}  Leave Management System
       </Footer>
     </Layout>
   );
